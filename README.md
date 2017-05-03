@@ -8,7 +8,7 @@ Cleans old unactive topics from hipchat
 
 See help:
 
-`node hipchat-cleaner -h`
+`node hipchat-cleaner.js -h`
 
 Usage samples:
 
