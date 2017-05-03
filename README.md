@@ -1,6 +1,9 @@
 # hipchat-cleaner
 Cleans old unactive topics from hipchat
 
+`master`
+[![Build Status](https://travis-ci.org/mateuszgachowski/hipchat-cleaner.svg?branch=master)](https://travis-ci.org/mateuszgachowski/hipchat-cleaner)
+
 ## Usage
 
 See help:
