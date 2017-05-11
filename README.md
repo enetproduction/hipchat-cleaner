@@ -1,4 +1,6 @@
 # hipchat-cleaner
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mateuszgachowski/hipchat-cleaner.svg)](https://greenkeeper.io/)
 Cleans old unactive topics from hipchat
 
 `master`
