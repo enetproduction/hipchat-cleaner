@@ -1,10 +1,10 @@
 # hipchat-cleaner
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mateuszgachowski/hipchat-cleaner.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/enetproduction/hipchat-cleaner.svg)](https://greenkeeper.io/)
 Cleans old unactive topics from hipchat
 
 `master`
-[![Build Status](https://travis-ci.org/mateuszgachowski/hipchat-cleaner.svg?branch=master)](https://travis-ci.org/mateuszgachowski/hipchat-cleaner)
+[![Build Status](https://travis-ci.org/enetproduction/hipchat-cleaner.svg?branch=master)](https://travis-ci.org/enetproduction/hipchat-cleaner)
 
 ## Usage
 
